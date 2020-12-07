@@ -1,4 +1,26 @@
-### Hi there 👋
+## 👋 Welcome to my GitHub Page 👋
+<hr>
+
+Professional Backend **Python Developer** with more than 5 years of experience in developing, testing & deploying test frameworks in the field of Android, iOS, Web Application & REST API Automation.
+
+Expertise & Proactive working in environment for developing end to end solutions using cutting edge technology.
+
+Following are my technical capabilities and expertise:
+
+1. Mobile & Web Automation
+1. Framework Development / Management
+1. Qualcomm IOT Device & Chipset Automation
+1. Test Analyst / Developer
+1. Data Visualisation & Analysis
+1. WWAN & Network Protocol Testing
+
+<br><hr>
+
+##### Upcoming Goals for 2021:
+1. Contributing to Open Source Tools (Robot Framework & Openpyxl)
+1. Developing Extensive Open Source Libraries for Robot Framework
+1. Conceptually Understanding Advanced Machine Learning Models & Algorithms
+1. Improvising Understanding of Tensorflow Framework
 
 <!--
 **akshaykadam100/akshaykadam100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
