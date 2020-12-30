@@ -22,6 +22,7 @@ Following are my technical capabilities and expertise:
 1. Conceptually Understanding Advanced Machine Learning Models & Algorithms
 1. Improvising Understanding of Tensorflow Framework
 
+<br><hr>
 
 ##### Current Work:
 1. Web Application for analysing customer churn possibility (http://akshaykadam100.pythonanywhere.com/)
