@@ -16,17 +16,17 @@ Following are my technical capabilities and expertise:
 
 <br><hr>
 
+##### Current Work:
+1. Web Application for analysing customer churn possibility (http://akshaykadam100.pythonanywhere.com/)
+1. Web Application to identify patient stroke
+
+<br><hr>
+
 ##### Upcoming Goals for 2021:
 1. Contributing to Open Source Tools (Robot Framework & Openpyxl)
 1. Developing Extensive Open Source Libraries for Robot Framework
 1. Conceptually Understanding Advanced Machine Learning Models & Algorithms
 1. Improvising Understanding of Tensorflow Framework
-
-<br><hr>
-
-##### Current Work:
-1. Web Application for analysing customer churn possibility (http://akshaykadam100.pythonanywhere.com/)
-1. Web Application to identify patient stroke
 
 <!--
 **akshaykadam100/akshaykadam100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
