@@ -17,8 +17,8 @@ Following are my technical capabilities and expertise:
 <br><hr>
 
 ##### Current Work:
-1. Web Application for analysing customer churn possibility (http://akshaykadam100.pythonanywhere.com/)
-1. Web Application to identify patient heart stroke
+1. Web Application for Analysing Customer Churn Possibility (https://data-models-ml.herokuapp.com/telecom_analyser/)
+1. Web Application to identify Patient Heart Stroke Possibility (https://data-models-ml.herokuapp.com/stroke_predictor/)
 
 <br><hr>
 
