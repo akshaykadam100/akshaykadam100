@@ -17,8 +17,8 @@ Following are my technical capabilities and expertise:
 <br><hr>
 
 ##### Current Work:
-1. Web Application for Analysing Customer Churn Possibility (https://data-models-ml.herokuapp.com/telecom_analyser/)
-1. Web Application to identify Patient Heart Stroke Possibility (https://data-models-ml.herokuapp.com/stroke_predictor/)
+1. NLP Based Android UI Automation
+1. Web Application for Analysing Customer Churn & Patient Heart Stroke Possibility (https://data-models-ml.herokuapp.com/)
 
 <br><hr>
 
