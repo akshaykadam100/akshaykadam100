@@ -7,12 +7,11 @@ Expertise & Proactive working in environment for developing end to end solutions
 
 Following are my technical capabilities and expertise:
 
-1. Mobile & Web Automation
+1. Mobile & Web Automation Development
 1. Framework Development / Management
-1. Qualcomm IOT Device & Chipset Automation
-1. Test Analyst / Developer
-1. Data Visualisation & Analysis
+1. Qualcomm based IOT Device & Chipset Automation
 1. WWAN & Network Protocol Testing
+1. Data Visualisation & Analysis
 
 <br><hr>
 
@@ -25,7 +24,7 @@ Following are my technical capabilities and expertise:
 ##### Upcoming Goals for 2021:
 1. Contributing to Open Source Tools (Robot Framework & Openpyxl)
 1. Developing Extensive Open Source Libraries for Robot Framework
-1. Conceptually Understanding Advanced Machine Learning Models & Algorithms
+1. Conceptual Understanding of Advanced Machine Learning Models & AI Algorithms
 1. Improvising Understanding of Tensorflow Framework
 
 <!--
