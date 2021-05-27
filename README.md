@@ -9,7 +9,7 @@ Following are my technical capabilities and expertise:
 
 1. Mobile & Web Automation Development
 1. Framework Development / Management
-1. Qualcomm based IOT Device & Chipset Automation
+1. IOT Device & Chipset Automation
 1. WWAN & Network Protocol Testing
 1. Data Visualisation & Analysis
 
