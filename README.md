@@ -25,6 +25,7 @@ Following are my technical capabilities and expertise:
 
 ##### Upcoming Goals for 2022:
 1. Understanding Deepstream SDK & its usage in RealTime applications using Jetson NANO Development Kit
+1. Usage of Streamlit based Web Applications for ML model deployment
 1. Contributing to Open Source Tools (Robot Framework & Openpyxl)
 1. Conceptual Understanding of Advanced Machine Learning Models & AI Algorithms
 1. Improvising Understanding of Tensorflow Framework
