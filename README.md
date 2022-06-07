@@ -7,19 +7,20 @@ Expertise & Proactive working in environment for developing end to end solutions
 
 Following are my technical capabilities and expertise:
 
-1. Mobile & Web Automation Development
 1. API Develoment & Code Optimisation
 1. Framework Development / Management
 1. Deep Learning & Neural Networks Development
+1. Data Visualisation & Exploratory Data Analysis
+1. Mobile & Web Automation Development
 1. IOT Device & Chipset Automation
 1. WWAN & Network Protocol Testing
-1. Data Visualisation & Exploratory Data Analysis
 
 <br><hr>
 
 ##### Current Work:
-1. Implementation of AI for Drug Discovery by comparing genome sequences of COVID-19 mutations.
-1. Usage of NN based models to anaylse/estimate/predict Cricket scores.
+1. Streamlining process of Model Development, Deployment & Automated Retraining (MLOps).
+1. Deep Learning based Reinforcement Learning.
+1. Streamlit based Web application development.
 
 <br><hr>
 
