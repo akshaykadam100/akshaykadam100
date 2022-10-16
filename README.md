@@ -1,7 +1,7 @@
 ## 👋 Welcome to my GitHub Page 👋
 <hr>
 
-Professional Backend `**Python Developer**` with 7+ years of experience in developing, testing & deploying test frameworks in the field of API Development & Android, iOS & Web Application Automation.
+Professional Backend `Python Developer` with 7+ years of experience in developing, testing & deploying test frameworks in the field of API Development & Android, iOS & Web Application Automation.
 
 Expertise & Proactive working in environment for developing end to end solutions using cutting edge technology.
 
